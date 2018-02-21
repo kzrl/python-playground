@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# python3 -m venv
+bin/
+share/
+pyvenv.cfg
+lib64
